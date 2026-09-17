@@ -1,0 +1,18 @@
+name: Bug report
+description: 报告网站、文档或项目中的可复现问题
+title: "[Bug] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题描述
+      description: 请清楚说明发生了什么。
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 复现步骤
+      description: 请列出最小化的复现步骤、环境和链接。
+    validations:
+      required: true
