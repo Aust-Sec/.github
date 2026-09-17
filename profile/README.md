@@ -42,6 +42,13 @@
 - GitHub：[github.com/Aust-Sec](https://github.com/Aust-Sec)
 - 公开交流群：894285023
 
+## 精选项目
+
+- [AustSec 官网](https://github.com/Aust-Sec/Aust-Sec.github.io)：协会官网与招新信息。
+- [.github](https://github.com/Aust-Sec/.github)：组织介绍、协作规范与社区模板。
+
+随着项目逐步公开，我们会在这里补充题解、工具、资料和成员项目索引。
+
 ---
 
 由 AustSec 成员共同维护 · EST. 2026
