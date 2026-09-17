@@ -1,0 +1,18 @@
+name: Feature request
+description: 提议一个对社区或项目有帮助的改进
+title: "[Feature] "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: 需求与背景
+      description: 请说明要解决的问题，以及谁会受益。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议方案
+      description: 描述你期望的实现方式。
+    validations:
+      required: true
